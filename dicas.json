@@ -1,0 +1,506 @@
+{
+  "trechos": [
+    {
+      "id": 1,
+      "titulo": "O poder das árvores urbanas",
+      "texto": "As árvores nas cidades não servem apenas para embelezar ruas — elas ajudam a reduzir o calor e a poluição. Um ipê adulto pode reter até 28 kg de dióxido de carbono por ano e reduzir a temperatura local em até 8 °C. Elas filtram partículas tóxicas, aumentam a umidade do ar e melhoram a qualidade de vida. Plantar árvores é investir na saúde pública e no bem-estar coletivo."
+    },
+    {
+      "id": 2,
+      "titulo": "Água: o ouro transparente",
+      "texto": "Apenas 3% de toda a água da Terra é doce, e menos de 1% está disponível para consumo humano. Milhões de litros são desperdiçados todos os dias com banhos longos, vazamentos e irrigação ineficiente. Até 2050, metade da população mundial pode enfrentar escassez hídrica. Economizar água é repensar a forma como usamos esse recurso na agricultura, indústria e residências."
+    },
+    {
+      "id": 3,
+      "titulo": "O impacto do lixo eletrônico",
+      "texto": "Celulares, computadores e televisores descartados incorretamente liberam metais pesados, como chumbo e mercúrio, contaminando solo e água. O Brasil gera mais de 2 milhões de toneladas de e-lixo por ano, mas menos de 3% é reciclado corretamente. Dar destino adequado a esses resíduos protege recursos naturais e a saúde de quem vive próximo a lixões e aterros."
+    },
+    {
+      "id": 4,
+      "titulo": "O ciclo da moda sustentável",
+      "texto": "A indústria têxtil é uma das mais poluentes do mundo, responsável por 10% das emissões globais de carbono e toneladas de resíduos têxteis. Cada camiseta de algodão exige cerca de 2.700 litros de água. Optar por roupas duráveis, trocar peças e apoiar brechós ou marcas sustentáveis reduz a pegada ambiental. Vestir-se conscientemente é respeitar a natureza e os trabalhadores."
+    },
+    {
+      "id": 5,
+      "titulo": "Energia limpa: o futuro que já chegou",
+      "texto": "Fontes renováveis como solar, eólica e biomassa representam mais de 45% da matriz elétrica brasileira. A transição energética reduz emissões, gera empregos verdes e diminui custos a longo prazo. Investir em energia limpa é mais do que tecnologia — é uma mudança de mentalidade coletiva rumo à sustentabilidade."
+    },
+    {
+      "id": 6,
+      "titulo": "Biodiversidade brasileira",
+      "texto": "O Brasil abriga cerca de 20% da biodiversidade mundial, com ecossistemas únicos como a Amazônia, Cerrado e Mata Atlântica. Preservar essa diversidade é fundamental para a estabilidade climática, segurança alimentar e saúde humana. Cada espécie desempenha um papel no equilíbrio ecológico e na manutenção dos serviços ambientais."
+    },
+    {
+      "id": 7,
+      "titulo": "A importância da compostagem",
+      "texto": "Restos de frutas, verduras e cascas de ovos podem ser transformados em adubo natural por meio da compostagem. Esse processo reduz até 60% do lixo doméstico, diminui emissões de metano nos aterros e enriquece o solo. Compostar é uma prática simples, mas poderosa, que conecta a vida cotidiana à sustentabilidade."
+    },
+    {
+      "id": 8,
+      "titulo": "Oceanos e clima",
+      "texto": "Os oceanos absorvem cerca de 30% do CO₂ emitido pelo homem. Porém, o excesso de carbono torna a água mais ácida, afetando peixes, corais e outros organismos. Proteger os oceanos significa reduzir emissões, evitar poluição e conservar habitats marinhos — ações essenciais para o equilíbrio climático global."
+    },
+    {
+      "id": 9,
+      "titulo": "Banhos conscientes",
+      "texto": "Um banho de 10 minutos consome, em média, 80 litros de água. Reduzir o tempo no chuveiro ou usar duchas econômicas é uma atitude simples, mas eficiente para economizar água e energia. Pequenas mudanças diárias refletem em grandes benefícios para o planeta."
+    },
+    {
+      "id": 10,
+      "titulo": "Poluição luminosa",
+      "texto": "O excesso de luz artificial afeta aves migratórias, insetos e até o ciclo de sono humano. Diminuir a iluminação desnecessária e instalar sensores de movimento em áreas públicas ajuda a reduzir impactos sobre a fauna e economizar energia elétrica."
+    },
+    {
+      "id": 11,
+      "titulo": "Ondas de calor",
+      "texto": "Segundo o IPCC, ondas de calor extremas estão se tornando mais frequentes. Cidades com arborização e áreas verdes sofrem menos com temperaturas elevadas. Investir em parques urbanos, telhados verdes e planejamento de sombra contribui para a saúde pública e a redução do consumo energético."
+    },
+    {
+      "id": 12,
+      "titulo": "Reciclagem de papel",
+      "texto": "Reciclar uma tonelada de papel evita o corte de 17 árvores adultas. Além disso, reduz a quantidade de resíduos enviados a aterros e economiza energia. Separar papel e papelão em casa é um passo simples, mas que tem grande impacto ambiental."
+    },
+    {
+      "id": 13,
+      "titulo": "Consumo de carne e metano",
+      "texto": "A produção de carne bovina é uma das maiores fontes de emissão de metano, um gás de efeito estufa potente. Reduzir o consumo semanal de carne, optar por alternativas vegetais ou apoiar carne de produtores sustentáveis ajuda a combater o aquecimento global."
+    },
+    {
+      "id": 14,
+      "titulo": "Transporte sustentável",
+      "texto": "Carros individuais são grandes emissores de CO₂. Caminhar, andar de bicicleta, usar transporte público ou veículos elétricos contribui para reduzir poluição do ar, melhorar a saúde e diminuir o impacto ambiental das cidades."
+    },
+    {
+      "id": 15,
+      "titulo": "Proteção de rios",
+      "texto": "Rios limpos garantem água potável, biodiversidade e agricultura saudável. Evitar despejo de resíduos, reflorestar margens e apoiar projetos de saneamento básico são ações essenciais para proteger nossos recursos hídricos."
+    },
+    {
+      "id": 16,
+      "titulo": "Agricultura regenerativa",
+      "texto": "Práticas como rotação de culturas, cobertura do solo e plantio direto ajudam a conservar nutrientes, melhorar a biodiversidade e reduzir a emissão de gases do efeito estufa. A agricultura regenerativa transforma a produção alimentar em aliada da natureza."
+    },
+    {
+      "id": 17,
+      "titulo": "Energia solar residencial",
+      "texto": "Instalar painéis solares em residências reduz a dependência de fontes fósseis e diminui a conta de energia elétrica. A adoção em larga escala pode transformar cidades em exemplos de sustentabilidade e combate às mudanças climáticas."
+    },
+    {
+      "id": 18,
+      "titulo": "Lixo plástico nos oceanos",
+      "texto": "Cerca de 8 milhões de toneladas de plástico chegam aos oceanos anualmente. Reduzir descartáveis, reciclar corretamente e apoiar políticas de redução de plástico são formas de proteger a vida marinha e a saúde humana."
+    },
+    {
+      "id": 19,
+      "titulo": "Plantio comunitário",
+      "texto": "Jardins comunitários e hortas urbanas promovem segurança alimentar, educação ambiental e integração social. Plantar em grupo incentiva a conservação da biodiversidade local e ensina hábitos sustentáveis às novas gerações."
+    },
+    {
+      "id": 20,
+      "titulo": "Consumo consciente de água",
+      "texto": "Além de fechar torneiras, pequenas ações como reaproveitar água da chuva, lavar roupas com carga completa e evitar desperdícios diários têm grande impacto. Cada litro economizado contribui para a preservação dos ecossistemas e para a segurança hídrica global."
+    }
+    {
+      "id": 21,
+      "titulo": "Conservação da Mata Atlântica",
+      "texto": "A Mata Atlântica já perdeu cerca de 88% de sua cobertura original. Proteger suas áreas remanescentes é vital para a biodiversidade, o ciclo da água e a regulação do clima. Projetos de reflorestamento e educação ambiental contribuem para restaurar ecossistemas e preservar espécies ameaçadas."
+    },
+    {
+      "id": 22,
+      "titulo": "Redução de resíduos domésticos",
+      "texto": "Separar corretamente o lixo, reduzir embalagens e optar por produtos reutilizáveis diminui significativamente o impacto ambiental. Cada ação doméstica conta: menos lixo em aterros significa menos emissão de gases de efeito estufa e solo mais saudável."
+    },
+    {
+      "id": 23,
+      "titulo": "Poluição do ar e saúde",
+      "texto": "A poluição atmosférica provoca doenças respiratórias, cardiovasculares e aumenta a mortalidade. Reduzir queimas, investir em transporte limpo e incentivar energia renovável são ações que melhoram a qualidade do ar e salvam vidas."
+    },
+    {
+      "id": 24,
+      "titulo": "Preservação dos manguezais",
+      "texto": "Manguezais são berçários naturais de diversas espécies marinhas e protegem a costa contra erosão e tempestades. Sua destruição compromete a pesca e aumenta vulnerabilidade a desastres naturais. Restaurar manguezais é proteger vidas e ecossistemas."
+    },
+    {
+      "id": 25,
+      "titulo": "Agricultura urbana",
+      "texto": "Cultivar alimentos em hortas urbanas promove segurança alimentar, reduz transporte de alimentos e diminui emissões de gases. Além disso, conecta as pessoas com a natureza e ensina práticas sustentáveis desde cedo."
+    },
+    {
+      "id": 26,
+      "titulo": "Uso eficiente de energia elétrica",
+      "texto": "A substituição de lâmpadas incandescentes por LED e o uso consciente de aparelhos eletrônicos reduzem o consumo de energia e a emissão de carbono. Pequenas mudanças em casa refletem em grandes impactos ambientais."
+    },
+    {
+      "id": 27,
+      "titulo": "Impacto das queimadas",
+      "texto": "Queimadas liberam gases tóxicos e destroem habitats. A prevenção exige fiscalização, conscientização e alternativas sustentáveis para agricultores. Evitar queimadas protege a fauna, flora e a saúde humana."
+    },
+    {
+      "id": 28,
+      "titulo": "Biodiversidade e polinização",
+      "texto": "Insetos polinizadores são essenciais para alimentos como frutas, legumes e grãos. O uso excessivo de agrotóxicos e a destruição de habitats ameaçam sua sobrevivência. Plantar flores nativas e reduzir químicos ajuda a manter o equilíbrio ecológico."
+    },
+    {
+      "id": 29,
+      "titulo": "Redução de plástico descartável",
+      "texto": "Copos, canudos e sacolas plásticas levam séculos para se decompor. Substituir por alternativas reutilizáveis diminui a poluição nos rios, oceanos e solo. Pequenas mudanças diárias geram grandes efeitos coletivos."
+    },
+    {
+      "id": 30,
+      "titulo": "Compostagem escolar",
+      "texto": "Escolas podem transformar restos de comida e papel em adubo, ensinando sustentabilidade na prática. Esse processo reduz resíduos, melhora o solo e desperta consciência ambiental entre alunos."
+    },
+    {
+      "id": 31,
+      "titulo": "Energias renováveis no transporte",
+      "texto": "Veículos elétricos e biocombustíveis são alternativas menos poluentes ao transporte convencional. Incentivar o uso dessas tecnologias contribui para cidades mais limpas e diminui emissões de gases do efeito estufa."
+    },
+    {
+      "id": 32,
+      "titulo": "Proteção de nascentes",
+      "texto": "Nascentes garantem água limpa e o equilíbrio dos rios. A degradação por desmatamento e poluição compromete o abastecimento e a biodiversidade. Proteger nascentes é garantir vida e sustentabilidade."
+    },
+    {
+      "id": 33,
+      "titulo": "Agroflorestas",
+      "texto": "Combinar agricultura com reflorestamento aumenta produtividade e conserva a biodiversidade. Agroflorestas ajudam a sequestrar carbono e reduzir erosão do solo, oferecendo alimento e renda de forma sustentável."
+    },
+    {
+      "id": 34,
+      "titulo": "Economia circular",
+      "texto": "Reutilizar, reciclar e reduzir resíduos faz parte da economia circular. Esse modelo diminui extração de recursos naturais e geração de lixo, tornando empresas e consumidores mais responsáveis ambientalmente."
+    },
+    {
+      "id": 35,
+      "titulo": "Proteção da fauna marinha",
+      "texto": "Tartarugas, peixes e aves marinhas sofrem com redes de pesca, lixo e poluição química. Reduzir descartáveis, apoiar legislação e preservar habitats são ações essenciais para manter os ecossistemas saudáveis."
+    },
+    {
+      "id": 36,
+      "titulo": "Energia solar comunitária",
+      "texto": "Instalação de painéis solares em bairros e escolas reduz custos e emissões, além de educar sobre sustentabilidade. Comunidades que adotam energia limpa inspiram mudanças em larga escala."
+    },
+    {
+      "id": 37,
+      "titulo": "Mudanças climáticas e agricultura",
+      "texto": "Secas, inundações e calor extremo afetam colheitas. Técnicas como irrigação eficiente, cobertura do solo e diversificação de culturas ajudam agricultores a se adaptar às mudanças climáticas."
+    },
+    {
+      "id": 38,
+      "titulo": "Redução de desperdício alimentar",
+      "texto": "Um terço de todos os alimentos produzidos é desperdiçado. Planejar compras, conservar adequadamente e aproveitar restos evita desperdício, economiza dinheiro e diminui emissões de metano."
+    },
+    {
+      "id": 39,
+      "titulo": "Reflorestamento urbano",
+      "texto": "Plantar árvores em praças, ruas e escolas ajuda a reduzir poluição, diminuir temperatura e promover bem-estar. O reflorestamento urbano contribui para cidades mais verdes e resilientes."
+    },
+    {
+      "id": 40,
+      "titulo": "Transporte ativo",
+      "texto": "Caminhar e pedalar são formas de transporte sustentável que reduzem poluição, melhoram saúde e diminuem congestionamentos. Incentivar ciclovias e calçadas seguras promove mobilidade urbana sustentável."
+    },
+    {
+      "id": 41,
+      "titulo": "Proteção de áreas úmidas",
+      "texto": "Áreas úmidas, como pântanos e brejos, armazenam água, protegem contra enchentes e abrigam biodiversidade única. Sua destruição compromete o equilíbrio ecológico. Proteger esses ambientes é essencial para a sobrevivência de espécies e para a segurança hídrica das regiões."
+    },
+    {
+      "id": 42,
+      "titulo": "Redução do consumo de papel",
+      "texto": "Cada tonelada de papel reciclado economiza 17 árvores e muita água. Reduzir impressões, usar papel reciclado e digitalizar documentos diminui impactos ambientais e incentiva práticas sustentáveis no dia a dia."
+    },
+    {
+      "id": 43,
+      "titulo": "Agricultura orgânica",
+      "texto": "Cultivar sem agrotóxicos melhora a saúde do solo, preserva polinizadores e gera alimentos mais saudáveis. Apoiar produtos orgânicos e produtores locais fortalece a economia verde e reduz contaminação ambiental."
+    },
+    {
+      "id": 44,
+      "titulo": "Proteção de corais",
+      "texto": "Os corais são essenciais para a vida marinha e para a proteção costeira. O aquecimento global e a poluição ameaçam sua sobrevivência. Reduzir emissões e evitar poluição marinha ajuda a preservar esses ecossistemas vitais."
+    },
+    {
+      "id": 45,
+      "titulo": "Consumo consciente de energia",
+      "texto": "Apagar luzes, desligar aparelhos em stand-by e optar por eletrodomésticos eficientes reduz a pegada de carbono. Pequenas atitudes em casa refletem diretamente na conservação de recursos naturais e na redução de emissões."
+    },
+    {
+      "id": 46,
+      "titulo": "Poluição sonora",
+      "texto": "O excesso de ruído nas cidades afeta a saúde humana e a fauna urbana. Reduzir som alto, usar veículos silenciosos e criar zonas de silêncio ajuda a proteger a biodiversidade e melhora a qualidade de vida."
+    },
+    {
+      "id": 47,
+      "titulo": "Hortas verticais",
+      "texto": "Hortas verticais em apartamentos ou escolas economizam espaço, absorvem CO₂ e produzem alimentos frescos. Essa prática conecta pessoas à natureza mesmo em ambientes urbanos compactos."
+    },
+    {
+      "id": 48,
+      "titulo": "Uso sustentável de florestas",
+      "texto": "Exploração responsável de madeira e produtos florestais evita desmatamento e mantém o ciclo de carbono equilibrado. Certificações e manejo sustentável são ferramentas essenciais para a conservação."
+    },
+    {
+      "id": 49,
+      "titulo": "Mobilidade elétrica",
+      "texto": "Veículos elétricos reduzem emissões locais e poluição sonora. Incentivar infraestrutura de recarga e políticas públicas de mobilidade limpa contribui para cidades mais verdes e saudáveis."
+    },
+    {
+      "id": 50,
+      "titulo": "Redução de resíduos em festas e eventos",
+      "texto": "Copos, garrafas e embalagens descartáveis podem ser substituídos por alternativas reutilizáveis. Organizar eventos conscientes diminui lixo, poluição e conscientiza participantes sobre sustentabilidade."
+    },
+    {
+      "id": 51,
+      "titulo": "Educação ambiental",
+      "texto": "Incorporar educação ambiental em escolas e comunidades promove consciência ecológica desde cedo. Conhecimento sobre reciclagem, biodiversidade e mudanças climáticas cria cidadãos mais engajados."
+    },
+    {
+      "id": 52,
+      "titulo": "Conservação de espécies ameaçadas",
+      "texto": "Espécies em extinção indicam desequilíbrios ambientais. Proteger habitats, combater caça ilegal e apoiar programas de preservação ajudam a manter a biodiversidade e o equilíbrio dos ecossistemas."
+    },
+    {
+      "id": 53,
+      "titulo": "Redução de embalagens plásticas",
+      "texto": "Optar por produtos a granel, reutilizar sacolas e recusar descartáveis diminui o lixo plástico. A mudança de hábitos do consumidor é poderosa para reduzir a poluição ambiental."
+    },
+    {
+      "id": 54,
+      "titulo": "Agricultura de precisão",
+      "texto": "Tecnologias que monitoram irrigação, nutrientes e pragas reduzem desperdícios, aumentam produtividade e diminuem impacto ambiental. A inovação na agricultura é aliada da sustentabilidade."
+    },
+    {
+      "id": 55,
+      "titulo": "Reaproveitamento de água da chuva",
+      "texto": "Coletar e armazenar água da chuva reduz o consumo de água potável e ajuda em irrigação, limpeza e outros usos domésticos. Cada litro reaproveitado contribui para a preservação de recursos hídricos."
+    },
+    {
+      "id": 56,
+      "titulo": "Conservação de áreas costeiras",
+      "texto": "Mangues, dunas e praias são barreiras naturais contra erosão e tempestades. Preservar essas áreas garante proteção ambiental e segurança para comunidades costeiras."
+    },
+    {
+      "id": 57,
+      "titulo": "Alimentação baseada em plantas",
+      "texto": "Reduzir carne e consumir mais vegetais diminui a emissão de gases do efeito estufa e o consumo de água. Pequenas mudanças na dieta têm impactos positivos para o planeta."
+    },
+    {
+      "id": 58,
+      "titulo": "Recuperação de áreas degradadas",
+      "texto": "Plantar árvores nativas e restaurar solos degradados ajuda a recuperar biodiversidade, reduzir erosão e capturar carbono. A restauração ambiental é investimento no futuro."
+    },
+    {
+      "id": 59,
+      "titulo": "Transporte coletivo eficiente",
+      "texto": "Ônibus, trens e metrôs bem estruturados reduzem o uso de carros individuais, diminuem emissões de CO₂ e melhoram mobilidade urbana. Investir em transporte público sustentável beneficia todos."
+    },
+    {
+      "id": 60,
+      "titulo": "Proteção de nascentes urbanas",
+      "texto": "Manter áreas verdes em volta de nascentes evita contaminação e garante abastecimento de água. As cidades que protegem nascentes fortalecem a segurança hídrica e o equilíbrio ambiental."
+    },
+    {
+      "id": 61,
+      "titulo": "Redução do uso de pesticidas",
+      "texto": "O uso excessivo de pesticidas contamina solo, água e afeta a biodiversidade, incluindo polinizadores essenciais. Adotar métodos naturais e orgânicos na agricultura preserva a saúde do ecossistema e garante alimentos mais seguros."
+    },
+    {
+      "id": 62,
+      "titulo": "Proteção de florestas tropicais",
+      "texto": "As florestas tropicais regulam o clima global, armazenam carbono e abrigam milhões de espécies. A proteção contra desmatamento é vital para a sobrevivência da biodiversidade e para a mitigação das mudanças climáticas."
+    },
+    {
+      "id": 63,
+      "titulo": "Compostagem comunitária",
+      "texto": "Cooperativas e bairros podem organizar pontos de compostagem, transformando restos orgânicos em adubo e reduzindo a quantidade de lixo enviada a aterros. Esse ato promove conscientização ambiental e fertilidade do solo."
+    },
+    {
+      "id": 64,
+      "titulo": "Conservação de aves migratórias",
+      "texto": "A perda de habitats e poluição ameaçam aves migratórias. Criar corredores verdes, preservar áreas de descanso e reduzir pesticidas são medidas essenciais para proteger essas espécies."
+    },
+    {
+      "id": 65,
+      "titulo": "Eficiência energética em prédios",
+      "texto": "Prédios com isolamento térmico, iluminação LED e sistemas inteligentes de energia consomem menos recursos, reduzem emissões e diminuem custos. A eficiência energética é parte importante da sustentabilidade urbana."
+    },
+    {
+      "id": 66,
+      "titulo": "Agricultura sustentável e solo",
+      "texto": "Práticas como rotação de culturas, plantio direto e cobertura vegetal evitam erosão, conservam nutrientes e aumentam a produtividade. Solo saudável é base para segurança alimentar e preservação ambiental."
+    },
+    {
+      "id": 67,
+      "titulo": "Redução de emissão de gases",
+      "texto": "A substituição de combustíveis fósseis por fontes limpas, transporte coletivo e eficiência energética reduz gases de efeito estufa. Cada ação individual soma para um impacto global positivo."
+    },
+    {
+      "id": 68,
+      "titulo": "Proteção de zonas costeiras",
+      "texto": "Mangues, restingas e dunas protegem cidades contra enchentes e tempestades. Preservar essas áreas é essencial para a segurança de comunidades e manutenção de ecossistemas costeiros."
+    },
+    {
+      "id": 69,
+      "titulo": "Incentivo à mobilidade ativa",
+      "texto": "Caminhar e pedalar diminuem a poluição e melhoram a saúde. Criar ciclovias e calçadas seguras incentiva cidadãos a adotarem transporte sustentável, reduzindo o uso de carros individuais."
+    },
+    {
+      "id": 70,
+      "titulo": "Redução de desperdício em restaurantes",
+      "texto": "Restaurantes podem reaproveitar alimentos, oferecer porções ajustáveis e incentivar embalagens reutilizáveis. A redução de desperdício diminui impactos ambientais e promove consumo consciente."
+    },
+    {
+      "id": 71,
+      "titulo": "Educação ambiental nas comunidades",
+      "texto": "Programas de educação ambiental em bairros e associações despertam consciência ecológica, estimulam hábitos sustentáveis e fortalecem a participação cidadã na preservação do meio ambiente."
+    },
+    {
+      "id": 72,
+      "titulo": "Conservação de abelhas",
+      "texto": "Abelhas são polinizadoras essenciais para 70% das culturas alimentares. Evitar pesticidas, plantar flores nativas e proteger habitats garante produtividade agrícola e biodiversidade."
+    },
+    {
+      "id": 73,
+      "titulo": "Aproveitamento de resíduos orgânicos",
+      "texto": "Restos de alimentos e podas podem virar adubo, evitando aterros e enriquecendo o solo. Compostagem é prática simples que conecta o cotidiano à sustentabilidade."
+    },
+    {
+      "id": 74,
+      "titulo": "Energias renováveis na indústria",
+      "texto": "Indústrias que adotam energia solar, eólica ou biomassa reduzem emissões de carbono e custos. A transição energética fortalece o compromisso ambiental empresarial."
+    },
+    {
+      "id": 75,
+      "titulo": "Proteção de ecossistemas aquáticos",
+      "texto": "Rios, lagos e manguezais abrigam biodiversidade vital. Evitar despejo de resíduos e conservar margens garante equilíbrio ecológico e recursos hídricos limpos."
+    },
+    {
+      "id": 76,
+      "titulo": "Redução de plásticos em escolas",
+      "texto": "Copos, garrafas e sacolas descartáveis podem ser substituídos por alternativas reutilizáveis. Escolas que adotam práticas sustentáveis educam futuras gerações."
+    },
+    {
+      "id": 77,
+      "titulo": "Arborização urbana",
+      "texto": "Plantar árvores em ruas e praças melhora o microclima, reduz poluição e promove bem-estar. Arborização é investimento em saúde pública e resiliência das cidades."
+    },
+    {
+      "id": 78,
+      "titulo": "Agricultura de baixo impacto",
+      "texto": "Técnicas como controle biológico de pragas, irrigação eficiente e cultivo orgânico reduzem impactos ambientais e preservam biodiversidade."
+    },
+    {
+      "id": 79,
+      "titulo": "Recuperação de áreas degradadas",
+      "texto": "Reflorestar e restaurar solos contaminados aumenta biodiversidade, reduz erosão e captura carbono. A restauração ambiental é essencial para um futuro sustentável."
+    },
+    {
+      "id": 80,
+      "titulo": "Incentivo à economia circular",
+      "texto": "Reduzir, reutilizar e reciclar promove economia circular, diminuindo extração de recursos e geração de lixo. Consumidores conscientes podem transformar hábitos em impacto positivo."
+    },
+    {
+      "id": 81,
+      "titulo": "Proteção de espécies nativas",
+      "texto": "Espécies nativas são essenciais para o equilíbrio dos ecossistemas. Evitar caça, preservar habitats e apoiar programas de conservação garante biodiversidade e mantém serviços ambientais vitais para humanos e fauna."
+    },
+    {
+      "id": 82,
+      "titulo": "Redução do uso de papel em escritórios",
+      "texto": "Digitalizar documentos, imprimir frente e verso e reaproveitar folhas antigas reduz consumo de papel, protege florestas e diminui impactos ambientais na produção industrial de papel."
+    },
+    {
+      "id": 83,
+      "titulo": "Hortas escolares",
+      "texto": "Cultivar hortas em escolas ensina sobre alimentação saudável, sustentabilidade e ciclo da natureza. Alunos aprendem a valorizar alimentos, reduzir desperdício e cuidar do meio ambiente."
+    },
+    {
+      "id": 84,
+      "titulo": "Proteção de áreas de mangue",
+      "texto": "Mangues protegem o litoral, armazenam carbono e abrigam fauna importante. Sua destruição aumenta vulnerabilidade a enchentes e prejudica pesca local. Recuperar e conservar manguezais é prioridade."
+    },
+    {
+      "id": 85,
+      "titulo": "Consumo consciente de água",
+      "texto": "Reduzir desperdício, reaproveitar água da chuva e otimizar irrigação contribuem para a preservação dos recursos hídricos. Cada litro economizado é um passo rumo à sustentabilidade."
+    },
+    {
+      "id": 86,
+      "titulo": "Alimentação sustentável",
+      "texto": "Preferir produtos orgânicos, locais e de baixo impacto ambiental reduz poluição e emissões de carbono. A dieta consciente ajuda na saúde humana e na proteção do planeta."
+    },
+    {
+      "id": 87,
+      "titulo": "Energia solar residencial",
+      "texto": "Instalar painéis solares diminui consumo de energia elétrica convencional e emissões de CO₂. A adoção de energia limpa fortalece a sustentabilidade em residências e comunidades."
+    },
+    {
+      "id": 88,
+      "titulo": "Redução de lixo eletrônico",
+      "texto": "Reciclar computadores, celulares e eletrodomésticos evita contaminação do solo e água. Dar destino correto ao e-lixo protege pessoas, fauna e recursos naturais."
+    },
+    {
+      "id": 89,
+      "titulo": "Incentivo à mobilidade sustentável",
+      "texto": "Caminhar, pedalar e usar transporte público reduz poluição, melhora a saúde e diminui emissão de gases. Cidades planejadas com mobilidade ativa são mais sustentáveis."
+    },
+    {
+      "id": 90,
+      "titulo": "Proteção de rios e nascentes",
+      "texto": "Áreas verdes próximas a rios e nascentes evitam erosão, mantêm qualidade da água e protegem a biodiversidade. Preservar essas áreas garante recursos hídricos confiáveis."
+    },
+    {
+      "id": 91,
+      "titulo": "Agricultura orgânica e solo",
+      "texto": "Cultivar sem agrotóxicos mantém o solo fértil, protege polinizadores e fornece alimentos mais saudáveis. Produtos orgânicos incentivam economia local e práticas sustentáveis."
+    },
+    {
+      "id": 92,
+      "titulo": "Redução de emissões em transporte",
+      "texto": "Uso de bicicletas, transporte público e carros elétricos diminui poluição atmosférica. Cada quilômetro percorrido de forma sustentável ajuda na mitigação das mudanças climáticas."
+    },
+    {
+      "id": 93,
+      "titulo": "Compostagem doméstica",
+      "texto": "Transformar restos de alimentos em adubo reduz lixo, diminui emissão de gases e fertiliza jardins. Compostagem conecta moradores com a natureza e promove práticas sustentáveis."
+    },
+    {
+      "id": 94,
+      "titulo": "Conservação de florestas tropicais",
+      "texto": "As florestas tropicais armazenam carbono e regulam o clima. Preservar essas áreas evita aquecimento global e garante habitat para milhões de espécies."
+    },
+    {
+      "id": 95,
+      "titulo": "Redução do plástico descartável",
+      "texto": "Copos, sacolas e utensílios plásticos podem ser substituídos por alternativas reutilizáveis. Reduzir o consumo de plástico protege oceanos e solos."
+    },
+    {
+      "id": 96,
+      "titulo": "Agroflorestas como solução sustentável",
+      "texto": "Combinar agricultura com reflorestamento aumenta produtividade, sequestra carbono e preserva biodiversidade. Agroflorestas promovem equilíbrio ecológico e econômico."
+    },
+    {
+      "id": 97,
+      "titulo": "Eficiência energética em residências",
+      "texto": "Substituir lâmpadas por LED, desligar aparelhos e otimizar aquecimento e refrigeração reduz consumo e emissões. Pequenas mudanças domésticas têm grande impacto ambiental."
+    },
+    {
+      "id": 98,
+      "titulo": "Proteção de corais",
+      "texto": "Corais sustentam ecossistemas marinhos e protegem costas. Evitar poluição, reduzir aquecimento global e proteger áreas marinhas preserva esses habitats."
+    },
+    {
+      "id": 99,
+      "titulo": "Redução do desperdício alimentar",
+      "texto": "Planejar compras, armazenar corretamente e aproveitar sobras evita desperdício. Reduzir lixo de alimentos diminui emissões de metano e poupa recursos."
+    },
+    {
+      "id": 100,
+      "titulo": "Reflorestamento urbano",
+      "texto": "Plantar árvores em ruas e praças diminui temperatura, absorve CO₂ e melhora qualidade de vida. O reflorestamento urbano é investimento em cidades mais verdes e saudáveis."
+    }
+  ]
+}
+    
+ 
