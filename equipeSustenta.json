@@ -2,9 +2,9 @@
   "equipe": [
     {
       "id": 1,
-      "nome": "Ana Silva",
-      "cargo": "Coordenadora de Projetos",
-      "descricao": "Especialista em gestão ambiental com 8 anos de experiência. Lidera iniciativas sustentáveis e coordena impactos comunitários.",
+      "nome": "Diego Cavalcante",
+      "cargo": "Desenvoveldor e Professor Auxiliar do Projeto",
+      "descricao": "Responsavel pelo site e o app do sustenta, tecnico em rede de computadores  e desenvolvedor full stack.",
       "foto": "https://via.placeholder.com/150",
       "linkedin": "https://linkedin.com/in/ana-silva"
     },
