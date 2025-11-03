@@ -1,0 +1,28 @@
+{
+  "equipe": [
+    {
+      "id": 1,
+      "nome": "Ana Silva",
+      "cargo": "Coordenadora de Projetos",
+      "descricao": "Especialista em gestão ambiental com 8 anos de experiência. Lidera iniciativas sustentáveis e coordena impactos comunitários.",
+      "foto": "https://via.placeholder.com/150",
+      "linkedin": "https://linkedin.com/in/ana-silva"
+    },
+    {
+      "id": 2,
+      "nome": "Carlos Souza",
+      "cargo": "Designer Ambiental",
+      "descricao": "Responsável por criar materiais visuais e campanhas de conscientização ecológica.",
+      "foto": "https://via.placeholder.com/150",
+      "linkedin": "https://linkedin.com/in/carlos-souza"
+    },
+    {
+      "id": 3,
+      "nome": "Mariana Oliveira",
+      "cargo": "Educadora Ambiental",
+      "descricao": "Promove oficinas e palestras sobre sustentabilidade em escolas e comunidades.",
+      "foto": "https://via.placeholder.com/150",
+      "linkedin": "https://linkedin.com/in/mariana-oliveira"
+    }
+  ]
+}
