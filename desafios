@@ -1,0 +1,14 @@
+[
+  {
+    "titulo": "Desafio dos 5 R's",
+    "descricao": "Crie uma música sobre os 5 R's da sustentabilidade.",
+    "imagem": "https://exemplo.com/imagem1.png",
+    "formulario": "https://forms.gle/exemplo1"
+  },
+  {
+    "titulo": "Desafio da Compostagem",
+    "descricao": "Monte uma composteira caseira e envie fotos.",
+    "imagem": "https://exemplo.com/imagem2.png",
+    "formulario": "https://forms.gle/exemplo2"
+  }
+]
