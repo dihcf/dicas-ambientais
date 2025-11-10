@@ -1,0 +1,129 @@
+[
+  {
+    "id": "quimicativa",
+    "nome": "Quimicativa",
+    "logo": "https://res.cloudinary.com/drphhzupu/image/upload/v1761317600/quimicativa_d3lehh.png",
+    "descricao": "Educação ambiental com foco em química sustentável.",
+    "cor": "#E0F7FA",
+    "sobre": [
+      {
+        "titulo": "Missão",
+        "texto": "Promover práticas laboratoriais seguras e sustentáveis."
+      }
+    ],
+    "registros": [
+      {
+        "tipo": "slide",
+        "imagens": [
+          "https://res.cloudinary.com/drphhzupu/image/upload/v1761317600/quimicativa_slide1.jpg",
+          "https://res.cloudinary.com/drphhzupu/image/upload/v1761317600/quimicativa_slide2.jpg"
+        ]
+      }
+    ],
+    "contato": {
+      "whatsapp": "https://wa.me/5588999999999",
+      "instagram": "https://instagram.com/quimicativa",
+      "telefone": "+55 88 9999-9999"
+    }
+  },
+  {
+    "id": "ecoacao",
+    "nome": "EcoAção",
+    "logo": "https://res.cloudinary.com/drphhzupu/image/upload/v1761317605/ecoacao_bhpvx8.jpg",
+    "descricao": "Projetos de reflorestamento e educação ecológica.",
+    "cor": "#E8F5E9",
+    "sobre": [
+      {
+        "titulo": "Objetivo",
+        "texto": "Reflorestar áreas degradadas e conscientizar comunidades."
+      }
+    ],
+    "registros": [
+      {
+        "tipo": "card",
+        "imagens": ["https://res.cloudinary.com/drphhzupu/image/upload/v1761317605/ecoacao_card.jpg"]
+      }
+    ],
+    "contato": {
+      "whatsapp": "https://wa.me/5588988888888",
+      "instagram": "https://instagram.com/ecoacao",
+      "telefone": "+55 88 8888-8888"
+    }
+  },
+  {
+    "id": "sme",
+    "nome": "SME",
+    "logo": "https://res.cloudinary.com/drphhzupu/image/upload/v1761317610/sme_er7c7u.png",
+    "descricao": "Secretaria Municipal de Educação de General Sampaio.",
+    "cor": "#FFF3E0",
+    "sobre": [
+      {
+        "titulo": "Parceria",
+        "texto": "Apoio institucional às ações educativas do Sustenta+ nas escolas municipais."
+      }
+    ],
+    "registros": [],
+    "contato": {
+      "whatsapp": "https://wa.me/5588977777777",
+      "instagram": "https://instagram.com/smegs",
+      "telefone": "+55 88 7777-7777"
+    }
+  },
+  {
+    "id": "mtec",
+    "nome": "MTEC",
+    "logo": "https://res.cloudinary.com/drphhzupu/image/upload/v1761317615/mtec_e8aesp.png",
+    "descricao": "Movimento Técnico de Educação e Cultura.",
+    "cor": "#F3E5F5",
+    "sobre": [
+      {
+        "titulo": "Atuação",
+        "texto": "Oficinas culturais e técnicas voltadas à sustentabilidade e cidadania."
+      }
+    ],
+    "registros": [],
+    "contato": {
+      "whatsapp": "https://wa.me/5588966666666",
+      "instagram": "https://instagram.com/mtec",
+      "telefone": "+55 88 6666-6666"
+    }
+  },
+  {
+    "id": "sedama",
+    "nome": "SEDAMA",
+    "logo": "https://res.cloudinary.com/drphhzupu/image/upload/v1761317620/sedama_ylcrwx.png",
+    "descricao": "Secretaria de Desenvolvimento Agrário e Meio Ambiente.",
+    "cor": "#E3F2FD",
+    "sobre": [
+      {
+        "titulo": "Ações",
+        "texto": "Apoio técnico e logístico às ações ambientais do Sustenta+."
+      }
+    ],
+    "registros": [],
+    "contato": {
+      "whatsapp": "https://wa.me/5588955555555",
+      "instagram": "https://instagram.com/sedama",
+      "telefone": "+55 88 5555-5555"
+    }
+  },
+  {
+    "id": "cmea",
+    "nome": "CMEA",
+    "logo": "https://res.cloudinary.com/drphhzupu/image/upload/v1761317625/cmea_q7usrh.png",
+    "descricao": "Conselho Municipal de Educação Ambiental.",
+    "cor": "#F1F8E9",
+    "sobre": [
+      {
+        "titulo": "Conselho",
+        "texto": "Órgão consultivo e deliberativo das políticas ambientais locais."
+      }
+    ],
+    "registros": [],
+    "contato": {
+      "whatsapp": "https://wa.me/5588944444444",
+      "instagram": "https://instagram.com/cmea",
+      "telefone": "+55 88 4444-4444"
+    }
+  }
+]
