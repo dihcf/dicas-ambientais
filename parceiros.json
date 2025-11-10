@@ -75,12 +75,44 @@
     "logo": "https://res.cloudinary.com/drphhzupu/image/upload/v1761317615/mtec_e8aesp.png",
     "descricao": "Movimento Técnico de Educação e Cultura.",
     "cor": "#F3E5F5",
-    "sobre": [
-      {
-        "titulo": "Atuação",
-        "texto": "Oficinas culturais e técnicas voltadas à sustentabilidade e cidadania."
-      }
-    ],
+   "sobre": [
+  {
+    "titulo": "Introdução",
+    "texto": "O MTEC - Monitoria de Tecnologia, Educação e Cultura - surgiu em 2023 na EEEP Alan Pinho Tabosa como Monitoria de Informática, oferecendo suporte técnico aos alunos e organizando o laboratório escolar. Com o tempo, expandiu-se para a Escola Municipal José Bezerra Filho, incorporando atividades culturais, apresentações musicais e eventos escolares. Em 2025, após seis gerações de monitores, foi reconfigurado e passou a se chamar MTEC, refletindo sua atuação multidisciplinar e comunitária."
+  },
+  {
+    "titulo": "Justificativa",
+    "texto": "O projeto reconhece e valoriza as múltiplas potencialidades dos estudantes, indo além dos resultados acadêmicos. Promove vivências colaborativas e criativas que fortalecem identidade crítica, protagonismo juvenil, empatia e trabalho em equipe. A monitoria tornou-se espaço de expressão cultural, apoio pedagógico e desenvolvimento socioemocional, consolidando-se como ferramenta transformadora na escola e na comunidade."
+  },
+  {
+    "titulo": "Objetivo Geral",
+    "texto": "Promover o desenvolvimento integral dos estudantes por meio de uma monitoria colaborativa e multidisciplinar que articule tecnologia, educação e cultura, fortalecendo protagonismo juvenil, aprendizagem cooperativa, formação cidadã e competências técnicas, socioemocionais e culturais."
+  },
+  {
+    "titulo": "Objetivos Específicos",
+    "texto": "Capacitar estudantes como monitores; fomentar protagonismo juvenil; estimular aprendizagem cooperativa; desenvolver competências socioemocionais como liderança e empatia; integrar tecnologia, cultura e educação; garantir continuidade e vínculo afetivo entre gerações; incentivar campanhas sociais e ambientais; estimular uso de tecnologias digitais; avaliar continuamente as práticas; valorizar diversidade cultural e fortalecer senso de pertencimento."
+  },
+  {
+    "titulo": "Fundamentação Teórica",
+    "texto": "O MTEC se fundamenta na BNCC e em pensadores como Paulo Freire, Jean Piaget, Daniel Goleman e Pierre Bourdieu. Reconhece a educação como prática integradora que une técnica, cultura e emoção, promovendo protagonismo estudantil, cooperação e formação integral. Valoriza competências como conhecimento, pensamento crítico, repertório cultural, comunicação, projeto de vida, responsabilidade e cidadania."
+  },
+  {
+    "titulo": "Metodologia",
+    "texto": "A implementação ocorre mediante convite da escola, seleção e formação de monitores, organização por eixos temáticos (Tecnologia, Educação e Cultura), envolvimento da comunidade escolar e continuidade com ex-monitores. Inclui práticas inclusivas e acessíveis, uso de recursos internos e externos e avaliação coletiva das ações. A filosofia 'Uma vez monitor, sempre monitor' reforça o vínculo entre gerações."
+  },
+  {
+    "titulo": "Inclusão e Acessibilidade",
+    "texto": "O projeto garante participação de todos os estudantes interessados, promovendo ambiente acolhedor e inclusivo. Adota práticas como adaptação de atividades e horários, respeito às diferenças, estímulo à cooperação e uso de recursos tecnológicos acessíveis, fortalecendo protagonismo juvenil e desenvolvimento socioemocional."
+  },
+  {
+    "titulo": "Resultados Alcançados",
+    "texto": "Entre os resultados estão: desenvolvimento de habilidades sociais e emocionais (empatia, liderança, colaboração), fortalecimento da autoconfiança e expressão pessoal, estímulo à aprendizagem cooperativa, criação de laços afetivos e pertencimento, ambiente escolar mais inclusivo e acolhedor e reconhecimento institucional e comunitário. Os monitores relatam que a experiência foi transformadora e inesquecível."
+  },
+  {
+    "titulo": "Considerações Finais",
+    "texto": "O MTEC consolidou-se como iniciativa fundamental para o fortalecimento do aprendizado, protagonismo estudantil e desenvolvimento socioemocional. As atividades culturais e tecnológicas ampliaram o repertório dos alunos e criaram vínculos afetivos e institucionais. A monitoria é reconhecida como estratégia educativa transformadora, que alia teoria e prática, cultura e tecnologia, promovendo protagonismo juvenil e formação integral."
+  }
+],
     "registros": [],
     "contato": {
       "whatsapp": "https://wa.me/5588966666666",
