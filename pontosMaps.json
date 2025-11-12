@@ -1,38 +1,38 @@
 [
-{
-    id: "prefeitura",
-    title: "Prefeitura Municipal",
-    description: "Prefeitura de General Sampaio",
-    latitude: -4.0435,
-    longitude: -39.4495,
-    categoria: "turismo",
-    color: "red",
+  {
+    "id": "prefeitura",
+    "title": "Prefeitura Municipal",
+    "description": "Prefeitura de General Sampaio",
+    "latitude": -4.0435,
+    "longitude": -39.4495,
+    "categoria": "turismo",
+    "color": "red"
   },
   {
-    id: "secretaria",
-    title: "Secretaria de Educação",
-    description: "Órgão público municipal",
-    latitude: -4.042,
-    longitude: -39.452,
-    categoria: "secretaria",
-    color: "green",
+    "id": "secretaria",
+    "title": "Secretaria de Educação",
+    "description": "Órgão público municipal",
+    "latitude": -4.042,
+    "longitude": -39.452,
+    "categoria": "secretaria",
+    "color": "green"
   },
   {
-    id: "escola",
-    title: "Escola José Bezerra Filho",
-    description: "Escola Municipal de Ensino Fundamental",
-    latitude: -4.0428,
-    longitude: -39.4512,
-    categoria: "escola",
-    color: "blue",
+    "id": "escola",
+    "title": "Escola José Bezerra Filho",
+    "description": "Escola Municipal de Ensino Fundamental",
+    "latitude": -4.0428,
+    "longitude": -39.4512,
+    "categoria": "escola",
+    "color": "blue"
   },
   {
-    id: "praca",
-    title: "Praça Central",
-    description: "Praça principal da cidade",
-    latitude: -4.044,
-    longitude: -39.448,
-    categoria: "lazer",
-    color: "orange",
+    "id": "praca",
+    "title": "Praça Central",
+    "description": "Praça principal da cidade",
+    "latitude": -4.044,
+    "longitude": -39.448,
+    "categoria": "lazer",
+    "color": "orange"
   }
 ]
