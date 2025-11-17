@@ -1,0 +1,20 @@
+[
+  {
+    "titulo": "Missão Especial Localização - Praça Central",
+    "descricao": "Visite a Praça Central e valide sua presença para ganhar pontos!",
+    "imagem": "https://res.cloudinary.com/drphhzupu/image/upload/v1763383082/localizacao.png",
+    "formulario": "local-missao",
+    "latitude": -3.12345,
+    "longitude": -39.12345,
+    "raio": 50
+  },
+  {
+    "titulo": "Missão Especial Localização - Complexo Turístico Bica",
+    "descricao": "Esteja no Complexo Turístico Bica para completar a missão!",
+    "imagem": "https://res.cloudinary.com/drphhzupu/image/upload/v1763383082/localizacao2.png",
+    "formulario": "local-missao",
+    "latitude": -3.54321,
+    "longitude": -39.54321,
+    "raio": 100
+  }
+]
