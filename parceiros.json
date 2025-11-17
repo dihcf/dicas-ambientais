@@ -1,1 +1,167 @@
 
+[
+  {
+    "id": "quimicativa",
+    "nome": "Quimicativa",
+    "logo": "https://res.cloudinary.com/drphhzupu/image/upload/v1761317600/quimicativa_d3lehh.png",
+    "descricao": "Educação ambiental com foco em química sustentável.",
+    "cor": "#E0F7FA",
+    "sobre": [
+      {
+        "titulo": "Missão",
+        "texto": "Promover práticas laboratoriais seguras e sustentáveis."
+      }
+    ],
+    "registros": [
+      {
+        "tipo": "slide",
+        "imagens": [
+          "https://res.cloudinary.com/drphhzupu/image/upload/v1761317600/quimicativa_slide1.jpg",
+          "https://res.cloudinary.com/drphhzupu/image/upload/v1761317600/quimicativa_slide2.jpg"
+        ]
+      }
+    ],
+    "contato": {
+      "whatsapp": "https://wa.me/5588999999999",
+      "instagram": "https://instagram.com/quimicativa",
+      "telefone": "+55 88 9999-9999"
+    }
+  },
+  {
+    "id": "ecoacao",
+    "nome": "EcoAção",
+    "logo": "https://res.cloudinary.com/drphhzupu/image/upload/v1761317605/ecoacao_bhpvx8.jpg",
+    "descricao": "Projetos de reflorestamento e educação ecológica.",
+    "cor": "#E8F5E9",
+    "sobre": [
+      {
+        "titulo": "Objetivo",
+        "texto": "Reflorestar áreas degradadas e conscientizar comunidades."
+      }
+    ],
+    "registros": [
+      {
+        "tipo": "card",
+        "imagens": ["https://res.cloudinary.com/drphhzupu/image/upload/v1761317605/ecoacao_card.jpg"]
+      }
+    ],
+    "contato": {
+      "whatsapp": "https://wa.me/5588988888888",
+      "instagram": "https://instagram.com/ecoacao",
+      "telefone": "+55 88 8888-8888"
+    }
+  },
+  {
+    "id": "sme",
+    "nome": "SME",
+    "logo": "https://res.cloudinary.com/drphhzupu/image/upload/v1761317610/sme_er7c7u.png",
+    "descricao": "Secretaria Municipal de Educação de General Sampaio.",
+    "cor": "#FFF3E0",
+    "sobre": [
+      {
+        "titulo": "Parceria",
+        "texto": "Apoio institucional às ações educativas do Sustenta+ nas escolas municipais."
+      }
+    ],
+    "registros": [],
+    "contato": {
+      "whatsapp": "https://wa.me/5588977777777",
+      "instagram": "https://instagram.com/smegs",
+      "telefone": "+55 88 7777-7777"
+    }
+  },
+  {
+    "id": "mtec",
+    "nome": "MTEC",
+    "logo": "https://res.cloudinary.com/drphhzupu/image/upload/v1761317615/mtec_e8aesp.png",
+    "descricao": "Movimento Técnico de Educação e Cultura.",
+    "cor": "#F3E5F5",
+ "sobre": [
+  {
+    "titulo": "Introdução",
+    "texto": "O Projeto MTEC - Monitoria de Tecnologia, Educação e Cultura - nasceu em 2023, inicialmente como Monitoria de Informática na Escola Estadual de Educação Profissional Alan Pinho Tabosa. Seu objetivo era oferecer suporte técnico aos alunos do curso de Informática e organizar o uso do laboratório da escola. Com o tempo, novas gerações de monitores foram formadas, demonstrando maior envolvimento e dedicação, inclusive com participação voluntária em aulas durante o recesso escolar. Essa evolução consolidou a monitoria como espaço de aprendizado colaborativo, onde os próprios alunos assumiam papel de protagonistas no auxílio aos colegas e na realização de ações escolares. Em 2023, o projeto expandiu-se para a Escola Municipal José Bezerra Filho, passando a incluir atividades culturais, apresentações musicais e eventos escolares. Em 2025, após seis gerações de monitores, o projeto foi reconfigurado e passou a se chamar MTEC, refletindo sua atuação multidisciplinar e comunitária."
+  },
+  {
+    "titulo": "Justificativa",
+    "texto": "O MTEC surge da compreensão de que a escola deve reconhecer e valorizar as múltiplas potencialidades dos estudantes, para além dos resultados acadêmicos. O projeto oferece oportunidades de participação ativa, pertencimento e reconhecimento, promovendo vivências colaborativas e criativas que ajudam os alunos a se descobrirem como sujeitos singulares e críticos. Inicialmente voltado ao suporte técnico, revelou-se muito mais amplo: fomentou protagonismo juvenil, colaboração entre pares e engajamento em atividades culturais e sociais. A expansão para o ensino fundamental e o envolvimento em eventos escolares mostraram que a monitoria é também espaço de expressão criativa e valorização da cultura escolar. As ações desenvolvidas contribuem para o crescimento dos estudantes, fortalecendo autoestima, autonomia, senso de pertencimento e habilidades socioemocionais como liderança, empatia e cooperação."
+  },
+  {
+    "titulo": "Objetivo Geral",
+    "texto": "Promover o desenvolvimento integral dos estudantes por meio de uma monitoria colaborativa e multidisciplinar que articule tecnologia, educação e cultura. O projeto busca fortalecer o protagonismo juvenil, estimular a aprendizagem cooperativa, formar cidadãos conscientes e desenvolver competências técnicas, socioemocionais e culturais, contribuindo para uma comunidade escolar mais participativa, inclusiva e criativa."
+  },
+  {
+    "titulo": "Objetivos Específicos",
+    "texto": "Entre os objetivos específicos estão: capacitar estudantes para atuarem como monitores, desenvolvendo competências técnicas e pedagógicas; promover protagonismo juvenil por meio da organização de eventos culturais e sociais; fomentar aprendizagem cooperativa e troca de conhecimentos entre turmas; desenvolver competências socioemocionais como liderança, empatia e comunicação eficaz; integrar tecnologia, cultura e educação nas atividades da monitoria; garantir continuidade do projeto e vínculo afetivo entre gerações; incentivar campanhas sociais e ambientais; estimular uso de tecnologias digitais como ferramentas pedagógicas e culturais; avaliar continuamente as práticas da monitoria; valorizar diversidade cultural e identitária dos estudantes; e fortalecer senso de pertencimento por meio de atividades que resgatem memórias e tradições locais."
+  },
+  {
+    "titulo": "Fundamentação Teórica",
+    "texto": "O MTEC fundamenta-se em concepções pedagógicas que reconhecem a educação como processo integrador, participativo e formativo em múltiplas dimensões. Baseia-se na BNCC, que propõe formação integral contemplando dimensões cognitivas, socioemocionais, éticas e culturais. O projeto dialoga com competências gerais como conhecimento, pensamento crítico, repertório cultural, comunicação, projeto de vida, responsabilidade e cidadania. Além disso, inspira-se em autores como Paulo Freire, que defende a educação como prática da liberdade; Jean Piaget, que valoriza a aprendizagem cooperativa; Daniel Goleman, que destaca a importância da inteligência emocional; e Pierre Bourdieu, que compreende as práticas culturais como formas de expressão e identidade. Assim, o MTEC articula teoria e prática, técnica e cultura, cognição e emoção, promovendo protagonismo estudantil e formação integral."
+  },
+  {
+    "titulo": "Metodologia",
+    "texto": "A metodologia do MTEC envolve várias etapas: implementação mediante convite da escola e alinhamento de objetivos; seleção e formação de monitores por indicação de professores ou desempenho escolar; organização contínua das atividades ao longo do ano letivo; estruturação por eixos temáticos (Tecnologia, Educação e Cultura); envolvimento da comunidade escolar em eventos e projetos; continuidade com ex-monitores que permanecem voluntariamente; práticas inclusivas e acessíveis para garantir participação de todos; uso de recursos internos da escola e apoio externo de parceiros; e avaliação coletiva das ações por meio de rodas de conversa, reuniões e autoavaliações. A filosofia 'Uma vez monitor, sempre monitor' reforça o vínculo entre gerações e a identidade do grupo."
+  },
+  {
+    "titulo": "Inclusão e Acessibilidade",
+    "texto": "O MTEC compromete-se a garantir participação de todos os estudantes interessados, promovendo ambiente acolhedor, inclusivo e acessível. Adota práticas como adaptação de atividades e horários conforme necessidades dos participantes, respeito às diferenças culturais e sociais, estímulo à cooperação entre monitores para apoiar colegas com dificuldades, promoção de espaço seguro para expressão de ideias e adoção de recursos tecnológicos acessíveis. Dessa forma, fortalece protagonismo juvenil e desenvolvimento socioemocional, contribuindo para uma comunidade escolar mais justa e participativa."
+  },
+  {
+    "titulo": "Resultados Alcançados",
+    "texto": "Ao longo de suas gerações, o MTEC promoveu transformações significativas na vida dos monitores e da comunidade escolar. Entre os resultados estão: desenvolvimento de habilidades sociais e emocionais como empatia, liderança e colaboração; fortalecimento da autoconfiança e expressão pessoal por meio de apresentações culturais; estímulo à aprendizagem cooperativa e significativa; criação de laços afetivos e senso de pertencimento, com muitos descrevendo o grupo como uma 'família'; ambiente escolar mais inclusivo e acolhedor; e reconhecimento institucional e comunitário. Os depoimentos dos monitores evidenciam impacto positivo na vida pessoal e acadêmica, mostrando que a monitoria é lembrada como experiência transformadora."
+  },
+  {
+    "titulo": "Considerações Finais",
+    "texto": "O MTEC consolidou-se como iniciativa fundamental para o fortalecimento do aprendizado, protagonismo estudantil e desenvolvimento socioemocional. As atividades culturais e tecnológicas ampliaram o repertório dos alunos e criaram vínculos afetivos e institucionais. Os depoimentos dos monitores ressaltam responsabilidade, cooperação, superação de desafios e aprendizado prático. Apesar de dificuldades pontuais, a percepção geral é de satisfação e reconhecimento do valor da monitoria como espaço de aprendizado e desenvolvimento. O projeto reforça a relevância da monitoria como estratégia educativa transformadora, que alia teoria e prática, cultura e tecnologia, promovendo protagonismo juvenil e formação integral."
+  },
+    {
+    "titulo": "Depoimentos",
+    "texto": "Kassiele Ferreira (6ª Geração, 2025): 'Eu gosto bastante da monitoria, acho uma missão bem diferente, desafiadora e divertida. Apesar de algumas atividades parecerem que não iriam dar certo, sempre saía alguma coisa. Aprendi que, independente das circunstâncias, sempre dava certo - só basta acreditar.'\n\nAntônio Guilherme Maciel Rodrigues (6ª Geração, 2025): 'Eu gosto muito das atividades, principalmente das apresentações de dança. Aprendi que responsabilidade é essencial para quem quer ser monitor.'\n\nMaria Laís Moreira de Oliveira (6ª Geração, 2025): 'Gosto quando a monitoria se envolve mais na arte corporal, como nas danças. Aprendi que, se você souber trabalhar em grupo, tudo dará certo.'\n\nArnóbio Abdon Rodrigues Pinho (2ª Geração, 2023): 'Foi um período bom para desenvolvimento de habilidades sociais e responsabilidade. Havia momentos bons, como confraternizações, e momentos ruins, como interações autoritárias. Mas em suma, foi uma experiência positiva.'\n\nFrancisco Marcos Soares Barros (3ª Geração, 2023): 'Ser monitor foi uma experiência muito especial. O que eu mais gostava era poder contribuir com o crescimento dos colegas e ver a evolução de cada um. Aprendi muito sobre responsabilidade, trabalho em equipe e como liderar com paciência e empatia.'\n\nAntônia Lauana Teixeira Ramos (3ª Geração, 2023): 'Ser monitora foi uma experiência marcante e cheia de aprendizados. Gostei das atividades de dança, mas também aprendi sobre respeito, empatia e cuidado. Foi uma vivência de crescimento pessoal e coletivo.'\n\nLuis Guilherme Brito Gomes (3ª Geração, 2023): 'No início foi complicado, mas depois se tornou divertido. Aprendi a separar minha vida pessoal da profissional.'\n\nPedro André Oliveira Costa (1ª Geração, 2023): 'Gostava muito das reuniões para aprender códigos e repassar para a turma. Aprendi muito sobre JavaScript e responsabilidade.'\n\nEnilson Teixeira Rodrigues Filho (2ª Geração, 2023): 'Foi nesse período que mais aprendi sobre informática. Desenvolvi conhecimentos em HTML, CSS e Java. O professor Diego foi fundamental para meu desenvolvimento.'\n\nMaria Laura (6ª Geração, 2025): 'Entrei há pouco tempo, mas minhas primeiras experiências foram de muita alegria e aprendizado. Percebi que a monitoria é mais do que um grupo - é uma família.'\n\nLohanna Freitas (6ª Geração, 2025): 'O que realizamos atualmente é somente a dança. O que mais gosto é a forma como trabalhamos em equipe. Aprendi a conviver com pessoas novas.'\n\nFrancisca Elaine Souza Barbosa (6ª Geração, 2025): 'Eu gosto bastante dos ensaios e dos momentos que, apesar de serem poucos, foram maravilhosos.'"
+  }
+
+],
+    "registros": [],
+    "contato": {
+      "whatsapp": "https://wa.me/5588966666666",
+      "instagram": "https://instagram.com/mtec",
+      "telefone": "+55 88 6666-6666"
+    }
+  },
+  {
+    "id": "sedama",
+    "nome": "SEDAMA",
+    "logo": "https://res.cloudinary.com/drphhzupu/image/upload/v1761317620/sedama_ylcrwx.png",
+    "descricao": "Secretaria de Desenvolvimento Agrário e Meio Ambiente.",
+    "cor": "#E3F2FD",
+    "sobre": [
+      {
+        "titulo": "Ações",
+        "texto": "Apoio técnico e logístico às ações ambientais do Sustenta+."
+      }
+    ],
+    "registros": [],
+    "contato": {
+      "whatsapp": "https://wa.me/5588955555555",
+      "instagram": "https://instagram.com/sedama",
+      "telefone": "+55 88 5555-5555"
+    }
+  },
+  {
+    "id": "cmea",
+    "nome": "CMEA",
+    "logo": "https://res.cloudinary.com/drphhzupu/image/upload/v1761317625/cmea_q7usrh.png",
+    "descricao": "Conselho Municipal de Educação Ambiental.",
+    "cor": "#F1F8E9",
+    "sobre": [
+      {
+        "titulo": "Conselho",
+        "texto": "Órgão consultivo e deliberativo das políticas ambientais locais."
+      }
+    ],
+    "registros": [],
+    "contato": {
+      "whatsapp": "https://wa.me/5588944444444",
+      "instagram": "https://instagram.com/cmea",
+      "telefone": "+55 88 4444-4444"
+    }
+  }
+]
