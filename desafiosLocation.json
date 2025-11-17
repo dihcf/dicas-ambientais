@@ -1,20 +1,11 @@
-[
-  {
-    "titulo": "Missão Especial Localização - Praça Central",
-    "descricao": "Visite a Praça Central e valide sua presença para ganhar pontos!",
-    "imagem": "https://res.cloudinary.com/drphhzupu/image/upload/v1763383082/localizacao.png",
-    "formulario": "local-missao",
-    "latitude": -3.12345,
-    "longitude": -39.12345,
-    "raio": 50
-  },
-  {
-    "titulo": "Missão Especial Localização - Complexo Turístico Bica",
-    "descricao": "Esteja no Complexo Turístico Bica para completar a missão!",
-    "imagem": "https://res.cloudinary.com/drphhzupu/image/upload/v1763383082/localizacao2.png",
-    "formulario": "local-missao",
-    "latitude": -3.54321,
-    "longitude": -39.54321,
-    "raio": 100
-  }
-]
+{
+  "titulo": "Missão Especial Trilhas Sustenta+",
+  "descricao": "Visite todos os pontos turísticos para desbloquear o prêmio!",
+  "imagem": "https://res.cloudinary.com/drphhzupu/image/upload/v1763383082/localizacao.png",
+  "formulario": "local-missao",
+  "locais": [
+    { "nome": "Praça Central", "latitude": -3.12345, "longitude": -39.12345, "raio": 50 },
+    { "nome": "Complexo Turístico Bica", "latitude": -3.54321, "longitude": -39.54321, "raio": 100 },
+    { "nome": "Mirante Sustenta+", "latitude": -3.67890, "longitude": -39.67890, "raio": 75 }
+  ]
+}
