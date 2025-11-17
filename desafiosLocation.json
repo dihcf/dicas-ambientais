@@ -5,7 +5,12 @@
     "imagem": "https://res.cloudinary.com/drphhzupu/image/upload/v1763383082/localizacao.png",
     "formulario": "local-missao",
     "locais": [
-      { "nome": "Quadra Coberta Yuri Barbosa Ventura", "latitude": -4.045301, "longitude": -39.448508, "raio": 50 }
+      { "nome": "Complexo Turistico Bica", "latitude": -4.061058645180618, "longitude": -39.45463993745644, "raio": 50 },
+      { "nome": "EMEF José Bezerra Filho", "latitude": -4.045350035900893, "longitude": -39.44833194664488, "raio": 50 },
+      { "nome": "Ginásio Francisco Cavalcante", "latitude": -4.0499136844772, "longitude": -39.44931555529136, "raio": 50 },
+      { "nome": "Prefeitura de General Sampaio", "latitude": -4.05145407806094, "longitude": -39.45061855359723, "raio": 50 },
+      { "nome": "Câmara Municipal de General Sampaio", "latitude": -4.049484044642162, "longitude": -39.44881099362125, "raio": 50 },
+      { "nome": "Igreja Matriz de Nossa Senhora do Rosário", "latitude": -4.053198587991067, "longitude": -39.45486839680097, "raio": 50 }
     ]
   }
 ]
