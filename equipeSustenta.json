@@ -4,7 +4,7 @@
       "id": 1,
       "nome": "Diego Cavalcante",
       "cargo": "DEV e Professor Auxiliar do Projeto",
-      "descricao": "Responsavel pelo site e o app do sustenta, tecnico em rede de computadores  e desenvolvedor full stack.",
+      "descricao": "Responsável pelo site e o app do Sustenta, técnico em rede de computadores e desenvolvedor full stack.",
       "foto": "https://res.cloudinary.com/drphhzupu/image/upload/v1762171043/7baf7293-15c4-478c-9c11-f2600cbee17d.png",
       "linkedin": "https://linkedin.com/in/ana-silva"
     },
@@ -12,7 +12,7 @@
       "id": 2,
       "nome": "Samara Oliveira",
       "cargo": "Professora Orientadora",
-      "descricao": " ",
+      "descricao": "",
       "foto": "https://res.cloudinary.com/drphhzupu/image/upload/v1762433294/WhatsApp_Image_2025-11-04_at_14.39.39_g0r8fx.jpg",
       "linkedin": "https://linkedin.com/in/carlos-souza"
     },
@@ -28,7 +28,7 @@
       "id": 4,
       "nome": "Davi França",
       "cargo": "Aluno Expositor",
-      "descricao": "Aluno do  7º ano da EMEF José Bezerra Filho",
+      "descricao": "Aluno do 7\u00ba ano da EMEF José Bezerra Filho",
       "foto": "https://res.cloudinary.com/drphhzupu/image/upload/v1762434307/0a1c60b5-60bf-4fb6-86c6-31643225014b.png",
       "linkedin": "https://linkedin.com/in/mariana-oliveira"
     },
@@ -36,7 +36,7 @@
       "id": 5,
       "nome": "Laura Felix",
       "cargo": "Aluna Expositora",
-      "descricao": "Aluna do 7º ano da EMEF José Bezerra Filho",
+      "descricao": "Aluna do 7\u00ba ano da EMEF José Bezerra Filho",
       "foto": "https://res.cloudinary.com/drphhzupu/image/upload/v1762434213/47e9b262-933c-4c06-9e30-bcdbb38030ab.png",
       "linkedin": "https://linkedin.com/in/mariana-oliveira"
     },
