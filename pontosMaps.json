@@ -18,7 +18,7 @@
     "color": "green"
   },
   {
-    "id": "escola",
+    "id": "escola_1",
     "title": "Escola José Bezerra Filho",
     "description": "Escola Municipal de Ensino Fundamental",
     "latitude": -4.0428,
@@ -36,183 +36,165 @@
     "color": "orange"
   },
   {
-    "id": "currascaria",
-    "Title": "Churrascaria sol nascente",
+    "id": "churrascaria",
+    "title": "Churrascaria Sol Nascente",
     "description": "",
-    "latitude": "4.046",
-    "longitude": "39.45138",
+    "latitude": 4.046,
+    "longitude": 39.45138,
     "categoria": "",
     "color": ""
-
   },
   {
     "id": "arco",
-    "Title": "Arco de GS",
+    "title": "Arco de GS",
     "description": "",
-    "latitude": "4.04153",
-    "longitude": "39.45193",
+    "latitude": 4.04153,
+    "longitude": 39.45193,
     "categoria": "",
     "color": ""
-
-},
+  },
   {
-    "id": "loja",
-    "Title": "Loja Mrstory",
+    "id": "loja_mrstory",
+    "title": "Loja Mrstory",
     "description": "",
-    "latitude": "4.04179",
-    "longitude": "39.45200",
+    "latitude": 4.04179,
+    "longitude": 39.452,
     "categoria": "",
     "color": ""
-},
+  },
   {
-    "id": "cemiterio",
-    "Title": "Cimiterio São José",
+    "id": "cemiterio_sao_jose",
+    "title": "Cemitério São José",
     "description": "",
-    "latitude": "4.04188",
-    "longitude": "39.45103",
+    "latitude": 4.04188,
+    "longitude": 39.45103,
     "categoria": "",
     "color": ""
-},
+  },
   {
-    "id": "loja",
-    "Title": "Loja Kr Multimarcas",
+    "id": "loja_kr",
+    "title": "Loja KR Multimarcas",
     "description": "",
-    "latitude": "4.04301",
-    "longitude": "39.45047",
+    "latitude": 4.04301,
+    "longitude": 39.45047,
     "categoria": "",
     "color": ""
-},
+  },
   {
-    "id": "cemiterio 2",
-    "Title": "Cemiterio bom Jesus",
+    "id": "cemiterio_bom_jesus",
+    "title": "Cemitério Bom Jesus",
     "description": "",
-    "latitude": "4.04350",
-    "longitude": "39.45147",
+    "latitude": 4.0435,
+    "longitude": 39.45147,
     "categoria": "",
     "color": ""
-
-},
+  },
   {
-    "id": "restaurante",
-    "Title": "Comida Caseira",
+    "id": "comida_caseira",
+    "title": "Comida Caseira",
     "description": "",
-    "latitude": "4.04373",
-    "longitude": "39.45031",
+    "latitude": 4.04373,
+    "longitude": 39.45031,
     "categoria": "",
     "color": ""
-
-},
+  },
   {
     "id": "bar",
-    "Title": "Bar",
+    "title": "Bar",
     "description": "",
-    "latitude": "4.04462",
-    "longitude": "39.44929",
+    "latitude": 4.04462,
+    "longitude": 39.44929,
     "categoria": "",
     "color": ""
-
-},
+  },
   {
-    "id": "mercado",
-    "Title": "Mercadinho Sr Valdo",
+    "id": "mercado_valdo",
+    "title": "Mercadinho Sr Valdo",
     "description": "",
-    "latitude": "4.04484",
-    "longitude": "39.44810",
+    "latitude": 4.04484,
+    "longitude": 39.4481,
     "categoria": "",
     "color": ""
-
-  
-},
+  },
   {
-    "id": "restaurante",
-    "Title": "Restaurante",
+    "id": "restaurante_1",
+    "title": "Restaurante",
     "description": "",
-    "latitude": "4.0454922",
-    "longitude": "39.4498577",
+    "latitude": 4.0454922,
+    "longitude": 39.4498577,
     "categoria": "",
     "color": ""
-
-},
+  },
   {
-    "id": "salão",
-    "Title": "Salão de Beleza",
+    "id": "salao_beleza",
+    "title": "Salão de Beleza",
     "description": "",
-    "latitude": "4.0456425",
-    "longitude": "39.4497475",
+    "latitude": 4.0456425,
+    "longitude": 39.4497475,
     "categoria": "",
     "color": ""
-
-},
+  },
   {
-    "id": "restaurante",
-    "Title": "Restaurante 2",
+    "id": "restaurante_2",
+    "title": "Restaurante 2",
     "description": "",
-    "latitude": "4.0455872",
-    "longitude": "39.4489072",
+    "latitude": 4.0455872,
+    "longitude": 39.4489072,
     "categoria": "",
     "color": ""
-
-    },
+  },
   {
-    "id": "escola",
-    "Title": "Escola José Bezerra Filho",
+    "id": "escola_2",
+    "title": "Escola José Bezerra Filho",
     "description": "",
-    "latitude": "4.0456362",
-    "longitude": "39.4484561",
+    "latitude": 4.0456362,
+    "longitude": 39.4484561,
     "categoria": "",
     "color": ""
-
-  
-    },
+  },
   {
-    "id": "barbearia",
-    "Title": "Barbearia Black",
+    "id": "barbearia_black",
+    "title": "Barbearia Black",
     "description": "",
-    "latitude": "4.0456362",
-    "longitude": "39.4484561",
+    "latitude": 4.0456362,
+    "longitude": 39.4484561,
     "categoria": "",
     "color": ""
-
-    },
+  },
   {
-    "id": "Loja contrução",
-    "Title": "Loja de Construção",
+    "id": "loja_construcao",
+    "title": "Loja de Construção",
     "description": "",
-    "latitude": "4.0457115",
-    "longitude": "39.4478119",
+    "latitude": 4.0457115,
+    "longitude": 39.4478119,
     "categoria": "",
     "color": ""
-
-        },
+  },
   {
-    "id": "lazer",
-    "Title": "Espaço de Lazer",
+    "id": "espaco_lazer",
+    "title": "Espaço de Lazer",
     "description": "",
-    "latitude": "4.0452003",
-    "longitude": "39.4475605",
+    "latitude": 4.0452003,
+    "longitude": 39.4475605,
     "categoria": "",
     "color": ""
-
-        },
+  },
   {
     "id": "mecanico",
-    "Title": "Mecanico",
+    "title": "Mecânico",
     "description": "",
-    "latitude": "4.046758",
-    "longitude": "39.4489144",
+    "latitude": 4.046758,
+    "longitude": 39.4489144,
     "categoria": "",
     "color": ""
-
-            },
+  },
   {
-    "id": "Biu",
-    "Title": "Espaço Biu Society",
+    "id": "biu_society",
+    "title": "Espaço Biu Society",
     "description": "",
-    "latitude": "4.047621",
-    "longitude": "39.4478887",
+    "latitude": 4.047621,
+    "longitude": 39.4478887,
     "categoria": "",
     "color": ""
-
-
   }
 ]
