@@ -1,6 +1,6 @@
 [
-  { "id": "prefeitura", "title": "Prefeitura Municipal", "description": "Prefeitura de General Sampaio", "latitude": -4.0435, "longitude": -39.4495, "categoria": "governo", "color": "red" },
-  { "id": "secretaria", "title": "Secretaria de Educação", "description": "Órgão público municipal", "latitude": -4.042, "longitude": -39.452, "categoria": "governo", "color": "green" },
-  { "id": "escola_1", "title": "Escola José Bezerra Filho", "description": "Escola Municipal de Ensino Fundamental", "latitude": -4.0428, "longitude": -39.4512, "categoria": "educação", "color": "blue" },
-  { "id": "praca", "title": "Praça Central", "description": "Praça principal da cidade", "latitude": -4.044, "longitude": -39.448, "categoria": "lazer", "color": "orange" }
+  { "id": "prefeitura", "title": "Prefeitura Municipal", "description": "Prefeitura de General Sampaio", "latitude": -4.0435, "longitude": -39.4495, "categoria": "governo", "color": "blue" },
+  { "id": "secretaria", "title": "Secretaria de Educação", "description": "Órgão público municipal", "latitude": -4.042, "longitude": -39.452, "categoria": "governo", "color": "blue" },
+  { "id": "secretaria1", "title": "SEDAMA", "description": "Órgão público municipal", "latitude": -4.043259938148637, "longitude": -39.449783480559105, "categoria": "governo", "color": "blue" }
+  
 ]
