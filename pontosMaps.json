@@ -1,7 +1,5 @@
 [
-  { "id": "prefeitura", "title": "Prefeitura Municipal", "description": "Prefeitura de General Sampaio", "latitude": -4.0435, "longitude": -39.4495, "categoria": "governo", "color": "blue" },
   { "id": "secretaria", "title": "Secretaria de Educação", "description": "Órgão público municipal", "latitude": -4.051717219114911, "longitude": -39.45076665655675, "categoria": "governo", "color": "blue" },
   { "id": "secretaria1", "title": "SEDAMA", "description": "Órgão público municipal", "latitude": -4.043259938148637, "longitude": -39.449783480559105, "categoria": "governo", "color": "blue" },
-  { "id": "secretaria2", "title": "SETCEJ", "description": "Órgão público municipal", "latitude": -4.049902918598055, "longitude": -39.44930347555974, "categoria": "governo", "color": "blue" },
-  { "id": "secretaria3", "title": "Camara Municipal", "description": "Órgão público municipal", "latitude": -4.049480960246628, "longitude": -39.44880695846822, "categoria": "governo", "color": "blue" }
+  { "id": "secretaria2", "title": "SETCEJ", "description": "Órgão público municipal", "latitude": -4.049902918598055, "longitude": -39.44930347555974, "categoria": "governo", "color": "blue" }
 ]
