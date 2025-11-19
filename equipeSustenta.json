@@ -2,14 +2,38 @@
   "equipe": [
     {
       "id": 1,
-      "nome": "Diego Cavalcante",
-      "cargo": "DEV e Professor Auxiliar do Projeto",
-      "descricao": "Responsável pelo site e o app do Sustenta, técnico em rede de computadores e desenvolvedor full stack.",
-      "foto": "https://res.cloudinary.com/drphhzupu/image/upload/v1762171043/7baf7293-15c4-478c-9c11-f2600cbee17d.png",
-      "linkedin": "https://linkedin.com/in/ana-silva"
+      "nome": "Laura Felix",
+      "cargo": "Aluna Expositora",
+      "descricao": "Aluna do 7º ano da EMEF José Bezerra Filho",
+      "foto": "https://res.cloudinary.com/drphhzupu/image/upload/v1762434213/47e9b262-933c-4c06-9e30-bcdbb38030ab.png",
+      "linkedin": "https://linkedin.com/in/mariana-oliveira"
     },
     {
       "id": 2,
+      "nome": "Davi França",
+      "cargo": "Aluno Expositor",
+      "descricao": "Aluno do 7º ano da EMEF José Bezerra Filho",
+      "foto": "https://res.cloudinary.com/drphhzupu/image/upload/v1762434307/0a1c60b5-60bf-4fb6-86c6-31643225014b.png",
+      "linkedin": "https://linkedin.com/in/mariana-oliveira"
+    },
+    {
+      "id": 3,
+      "nome": "Luis Felipe",
+      "cargo": "Aluno Auxiliar ",
+      "descricao": "Auxilia na Produção do App e Site do Sustenta",
+      "foto": "https://res.cloudinary.com/drphhzupu/image/upload/v1763557060/bf2db91c-92a9-41a2-80b7-c750ec721b56.png",
+      "linkedin": "https://linkedin.com/in/mariana-oliveira"
+    },
+    {
+      "id": 4,
+      "nome": "Pedro Lucas",
+      "cargo": "Aluno Auxiliar ",
+      "descricao": "Auxilia nas Apresentações e Oficinas",
+      "foto": "https://res.cloudinary.com/drphhzupu/image/upload/v1763557155/50a658b1-dc3c-4438-8b03-88374cb28b88.png",
+      "linkedin": "https://linkedin.com/in/mariana-oliveira"
+    },
+    {
+      "id": 5,
       "nome": "Samara Oliveira",
       "cargo": "Professora Orientadora",
       "descricao": "",
@@ -17,7 +41,7 @@
       "linkedin": "https://linkedin.com/in/carlos-souza"
     },
     {
-      "id": 3,
+      "id": 6,
       "nome": "Lioiza Freitas",
       "cargo": "Professora Coorientadora",
       "descricao": "",
@@ -25,23 +49,15 @@
       "linkedin": "https://linkedin.com/in/mariana-oliveira"
     },
     {
-      "id": 4,
-      "nome": "Davi França",
-      "cargo": "Aluno Expositor",
-      "descricao": "Aluno do 7\u00ba ano da EMEF José Bezerra Filho",
-      "foto": "https://res.cloudinary.com/drphhzupu/image/upload/v1762434307/0a1c60b5-60bf-4fb6-86c6-31643225014b.png",
-      "linkedin": "https://linkedin.com/in/mariana-oliveira"
+      "id": 7,
+      "nome": "Diego Cavalcante",
+      "cargo": "DEV e Professor Auxiliar do Projeto",
+      "descricao": "Responsável pelo site e o app do Sustenta, técnico em rede de computadores e desenvolvedor full stack.",
+      "foto": "https://res.cloudinary.com/drphhzupu/image/upload/v1762171043/7baf7293-15c4-478c-9c11-f2600cbee17d.png",
+      "linkedin": "https://linkedin.com/in/ana-silva"
     },
     {
-      "id": 5,
-      "nome": "Laura Felix",
-      "cargo": "Aluna Expositora",
-      "descricao": "Aluna do 7\u00ba ano da EMEF José Bezerra Filho",
-      "foto": "https://res.cloudinary.com/drphhzupu/image/upload/v1762434213/47e9b262-933c-4c06-9e30-bcdbb38030ab.png",
-      "linkedin": "https://linkedin.com/in/mariana-oliveira"
-    },
-    {
-      "id": 6,
+      "id": 8,
       "nome": "Cleber Matos",
       "cargo": "Social Midia",
       "descricao": "",
